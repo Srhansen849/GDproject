@@ -1,0 +1,8 @@
+# ninja log v5
+1	382	7092550895294763	CMakeFiles/GDproject.dir/main.cpp.obj	673c485ba1e371be
+7	584	7092546418561382	Game/CMakeFiles/Game.dir/Game.cpp.obj	f142eec24f895325
+585	1106	7092546423771314	Game/Game.exe	5a6c1275ba8abbf8
+0	444	7092551011368567	GDproject.exe	9fb097b4af48681b
+2	197	7092565006208059	build.ninja	e4089743f9131fdc
+1	717	7092565071567386	CMakeFiles/GDproject.dir/src/main.cpp.obj	bdec00420033b68a
+717	1126	7092565074953895	GDproject.exe	da01193c0bcebc8e
