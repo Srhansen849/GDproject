@@ -1,0 +1,3 @@
+C:/Users/rgter/source/repos/GDproject/out/build/x64-Debug/CMakeFiles/GDproject.dir
+C:/Users/rgter/source/repos/GDproject/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/rgter/source/repos/GDproject/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
