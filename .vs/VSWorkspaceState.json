@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\myGLFW",
+    "\\myGLFW\\myGLFW",
+    "\\myGLFW\\myGLFW\\Include",
+    "\\myGLFW\\myGLFW\\src"
   ],
+  "SelectedNode": "\\myGLFW\\myGLFW.sln",
   "PreviewInSolutionExplorer": false
 }
